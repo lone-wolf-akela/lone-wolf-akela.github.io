@@ -1,16 +1,16 @@
 Package: com.lonewolfakela.warshipgirlsplus
-Version: 1.0.0
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: lone_wolf_akela <lone_wolf_akela@icloud.com>
-Installed-Size: 116
+Installed-Size: 316
 Depends: mobilesubstrate
-Filename: ./debs/com.lonewolfakela.warshipgirlsplus_1.0.0_iphoneos-arm.deb
-Size: 2998
-MD5sum: 1d65cc7218ef77bd4a85d1247172ea48
-SHA1: d45ad87b0992a3472cc43b87cdc3b8d619ba3d4f
-SHA256: 9a1314027040d2d9d699f28671073d9b62f70a1efd038e75ed3a12b848394d4a
+Filename: ./debs/com.lonewolfakela.warshipgirlsplus_1.2.0_iphoneos-arm.deb
+Size: 35600
+MD5sum: 68a7be91af349b278e570eece52ea5f0
+SHA1: 0121ec8d02d1bcd55331822aa2655505ea38e324
+SHA256: c9256ab35b9a09b566b3bfca147e9408aa2adb5bac52b222b43b627b8f6945d4
 Section: Tweaks
-Description: WarshipGirlsR anti-censor patch
+Description: WarshipGirlsR tool patch
 Author: lone_wolf_akela <lone_wolf_akela@icloud.com>
 Name: WarshipGirlsPlus
 
