@@ -1,3 +1,19 @@
+Package: com.lonewolf.vitataf.homegesture
+Version: 1.3.2-3
+Architecture: iphoneos-arm
+Maintainer: Lone Wolf Akela
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.lonewolf.vitataf.homegesture_1.3.2-3_iphoneos-arm.deb
+Size: 4478
+MD5sum: aea0d09a8062345d2f90fac6ff00fa0f
+SHA1: e392195c0472693c5dc98106828e30a4f9689af0
+SHA256: fbe593c67f5b9f77cdcbb9be92ca9a0f292db06a096e5cc356656f3fcabbaee4
+Section: Tweaks
+Description: Enable iPhone X home gesture on other devices. This is a modified version by Lone Wolf Akela.
+Author: VitaTaf
+Name: HomeGesture_Wolf
+
 Package: com.lonewolfakela.warshipgirlsplus
 Version: 1.2.0
 Architecture: iphoneos-arm
