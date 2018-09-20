@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: JunesiPhone
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.junesiphone.hideactions_0.0.1-3_iphoneos-arm.deb
+Filename: ./debs/com.junesiphone.hideactions_0.0.1-3_iphoneos-arm.deb
 Size: 3072
 MD5sum: 0124950368ea5d97ba3e6dd9dee954e2
 SHA1: 610e09d36a1e7cd6f62b52a54a9a5d8909346e64
@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: Lone Wolf Akela
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: debs/com.lonewolf.vitataf.homegesture_1.3.2-3_iphoneos-arm.deb
+Filename: ./debs/com.lonewolf.vitataf.homegesture_1.3.2-3_iphoneos-arm.deb
 Size: 4478
 MD5sum: aea0d09a8062345d2f90fac6ff00fa0f
 SHA1: e392195c0472693c5dc98106828e30a4f9689af0
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: lone_wolf_akela <lone_wolf_akela@icloud.com>
 Installed-Size: 316
 Depends: mobilesubstrate
-Filename: debs/com.lonewolfakela.warshipgirlsplus_1.2.0_iphoneos-arm.deb
+Filename: ./debs/com.lonewolfakela.warshipgirlsplus_1.2.0_iphoneos-arm.deb
 Size: 35600
 MD5sum: 68a7be91af349b278e570eece52ea5f0
 SHA1: 0121ec8d02d1bcd55331822aa2655505ea38e324
@@ -52,11 +52,27 @@ Architecture: iphoneos-arm
 Maintainer: lone_wolf_akela <lone_wolf_akela@icloud.com>
 Installed-Size: 316
 Depends: mobilesubstrate
-Filename: debs/com.lonewolfakela.warshipgirlsplus_1.3.0-1_iphoneos-arm.deb
+Filename: ./debs/com.lonewolfakela.warshipgirlsplus_1.3.0-1_iphoneos-arm.deb
 Size: 35842
 MD5sum: 2d907924d352f3ff5e347ce88a1d44f3
 SHA1: 238dd3cc0496009af564f54fb852febcbc9b187b
 SHA256: 79b7596ec903e5ed0fba90836285f152aa4646089000bcc35a92879dc2fbb916
+Section: Tweaks
+Description: WarshipGirlsR tool patch
+Author: lone_wolf_akela <lone_wolf_akela@icloud.com>
+Name: WarshipGirlsPlus
+
+Package: com.lonewolfakela.warshipgirlsplus
+Version: 1.4.0-2
+Architecture: iphoneos-arm
+Maintainer: lone_wolf_akela <lone_wolf_akela@icloud.com>
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.lonewolfakela.warshipgirlsplus_1.4.0-2_iphoneos-arm.deb
+Size: 35772
+MD5sum: c5912a749c5028391686fe7b58808047
+SHA1: abca8cd2504799e0da5ac332d35daba7adc76e8e
+SHA256: eb4e2bc6c2c7b41651495100278027f421abcf94b5c85a0848beb9b38c1bb462
 Section: Tweaks
 Description: WarshipGirlsR tool patch
 Author: lone_wolf_akela <lone_wolf_akela@icloud.com>
